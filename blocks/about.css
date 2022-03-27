@@ -1,13 +1,6 @@
-/*
-* Prefixed by https://autoprefixer.github.io
-* PostCSS: v8.3.6,
-* Autoprefixer: v10.3.1
-* Browsers: last 4 version
-*/
-
 @-webkit-keyframes pulsate{
   0%{ 
-   -webkit-transform:  scale(1); 
+   -webkit-transform:  scale(1);
            transform:  scale(1);
     opacity:1;
 
@@ -23,7 +16,7 @@
 }
 @keyframes pulsate{
   0%{ 
-   -webkit-transform:  scale(1); 
+   -webkit-transform:  scale(1);
            transform:  scale(1);
     opacity:1;
 
@@ -77,7 +70,7 @@
 	gap: 20px;
 	z-index: 1;
 	margin: 119px 80px 173px 0;
-	font-family: Noto Serif;
+	font-family: Noto serif;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;
