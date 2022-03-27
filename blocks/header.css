@@ -3,7 +3,6 @@
     min-height: 720px;
     max-height: 800px;
     position: relative;
-    box-sizing: border-box;
     background-image: url('../images/background_header.svg'); 
     background-color:#FFFFFF;
     background-position: center; 
@@ -69,7 +68,6 @@
     align-items: flex-end;
     padding: 0 80px 40px 80px;
     justify-content: space-between;
-    box-sizing: border-box;
     font-family: Inter;
     font-style: normal;
     font-weight: 500;

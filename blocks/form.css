@@ -9,8 +9,6 @@
 }
 
 .form__input {
-	-webkit-box-sizing: border-box;
-	        box-sizing: border-box;
 	width: 100%;
 	margin-bottom: 32px;
 	background: #ffffff;
