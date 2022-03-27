@@ -1,11 +1,11 @@
 .reservation{
   position: relative;
-  background-image: url('../images/background_reservation.svg'); 
+  background-image: url('../images/background_reservation.svg');
   background-color:#D9E7FF;
-  background-position: center; 
-  background-repeat: no-repeat; 
-  background-size: cover;  
-  padding: 100px 80px 120px;  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px 80px 120px;
   color:#000000;
 }
 .reservation__title{

@@ -4,10 +4,10 @@
   max-height: 800px;
   position: relative;
   padding-top:30px;
-  background-image: url('../images/background_header.svg'); 
+  background-image: url('../images/background_header.svg');
   background-color:#FFFFFF;
-  background-position: center; 
-  background-repeat: no-repeat; 
+  background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
 }
 .header__link {
@@ -48,7 +48,7 @@ display: block;
   z-index: 1;
   max-width:683px;
   margin: 28px 0 0 80px;
-  font-family: Noto Serif;
+  font-family: Noto serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
