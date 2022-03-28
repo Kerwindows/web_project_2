@@ -57,7 +57,7 @@
 	        justify-content: center;
 }
 
-.form__checkbox-input {
+.form__checkbox-invisible {
 	position: absolute;
 	width: 1px;
 	height: 1px;
@@ -77,7 +77,7 @@
 	border: 1px solid #cfcfcf;
 }
 
-.form__checkbox-input:checked + .form__checkbox {
+.form__checkbox-invisible:checked + .form__checkbox {
 	background-color: #2F80ED;
 	background-image: url(../images/check.svg);
 	background-repeat: no-repeat;
