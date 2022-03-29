@@ -44,6 +44,7 @@
 }
 
 .about__title {
+	max-width: 260px;
 	margin: 100px 0 0 80px;
 	z-index: 1;
 	font-family: 'Inter', Arial, sans-serif;
@@ -70,7 +71,7 @@
 	gap: 20px;
 	z-index: 1;
 	margin: 119px 80px 173px 0;
-	font-family: 'Noto', 'Times New Roman', sans-serif;
+	font-family: 'Noto Serif', 'Times New Roman', sans-serif;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;

@@ -30,16 +30,13 @@
 }
 
 .header__span-accent{
+  display: block;
   font-size: 60px;
   line-height: 72px;
   color: #2F80ED;
-  font-family: 'Noto', 'Times New Roman', sans-serif;
+  font-family: 'Noto Serif', 'Times New Roman', sans-serif;
   font-style: italic;
   font-weight: normal;
-}
-
-.header__span-line-break{
-  display: block;
 }
 
 .header__description {
@@ -47,7 +44,7 @@
   z-index: 1;
   max-width:683px;
   margin: 28px 0 0 80px;
-  font-family: 'Noto', 'Times New Roman', sans-serif;
+  font-family: 'Noto Serif', 'Times New Roman', sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
