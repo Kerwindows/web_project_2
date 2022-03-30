@@ -82,7 +82,19 @@
 .header__paragraph{
   margin: 0;
 }
-
+.header__paragraph-heading{
+  margin: 0;
+  font-weight:inherit;
+  font-size: inherit;
+}
+.header__paragraph-list{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.header__paragraph-list-item{
+  margin: 0;
+}
 .header__address{
   margin:0;
 }
