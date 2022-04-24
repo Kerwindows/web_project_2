@@ -10,7 +10,7 @@ This is the second project of the Web Development program at Practicum by Yandex
 - Flat BEM
 - A custom form
 - CSS animation and transform
-- 
+
 **Project** 
 * [See it live](https://kerwindows.github.io/web_project_2/)  
 
